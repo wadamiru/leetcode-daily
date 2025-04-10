@@ -1,4 +1,4 @@
-public class Ld-pOne{
+public class Ld_pOne{
     
     public static void main(String[] args) {
         System.out.println("Hello, World!");
